@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local DocuMind data
+data/*.pkl
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+pymupdf
+streamlit
+pypdf
+numpy
+sentence-transformers
+google-genai
+reportlab
